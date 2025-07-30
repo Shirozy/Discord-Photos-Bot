@@ -1,0 +1,7 @@
+{
+  "BOT_TOKEN": "YOUR_DISCORD_BOT_TOKEN",
+  "PHOTO_DUMP_CHANNEL": "photo-dump",
+  "PHOTOGRAPHY_CHANNEL": "photography",
+  "EMBED_COLOR": "#FFB6C1",
+  "EMBED_FOOTER": "Made by Shiro <3 • Photography Corner"
+}
