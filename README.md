@@ -24,7 +24,7 @@ A simple, configurable Discord bot that listens for photo uploads and reposts th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/photo-exif-bot.git
+git clone https://github.com/Shirozy/Discord-Photos-Bot.git
 cd photo-exif-bot
 ````
 
